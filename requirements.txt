@@ -1,0 +1,8 @@
+Django
+Django-cors-headers
+Django-rest-auth
+Djangorestframework
+Django-allauth
+Django-Heroku
+psycopg2
+gunicorn
